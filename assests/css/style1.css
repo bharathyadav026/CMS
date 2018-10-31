@@ -1,0 +1,41 @@
+.dashboard{
+	
+	font-size:30px;
+	font-family:times new roman;
+	float:right;
+}
+body{ 
+	 
+            margin: 0;
+            padding: 0;
+            background: url() no-repeat;
+            background-size: cover;
+        
+    
+}
+
+	.login-box {
+            width: 280px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: black;
+        }
+        
+
+       .textbox{
+       
+            width: 280px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            
+       }
+        .my-4{
+        padding-bottom:50px;
+        }
+        .align{
+       
+        }
